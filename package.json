@@ -1,5 +1,5 @@
 {
-    "private": true,
+    "private": false,
     "scripts": {
         "bootstrap": "lerna bootstrap"
     },
@@ -8,5 +8,7 @@
     ],
     "devDependencies": {
         "lerna": "^2.9.0"
-    }
+    },
+    "version": "0.0.1"
+
 }
