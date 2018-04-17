@@ -9,6 +9,9 @@
     "devDependencies": {
         "lerna": "^2.9.0"
     },
-    "version": "0.0.1"
+    "name": "aws-mobile-appsync-sdk-custom-link",
+  "version": "0.0.1",
+  "description": "aws-mobile-appsync-sdk-custom-link",
+  "author": "Reginald Johnson"
 
 }
